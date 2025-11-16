@@ -1,6 +1,8 @@
 ## Hey rebels 👋
 
-For now the [Rebel language code is here](https://github.com/ufko-org/rebel)
+...
+
+**For now the [Rebel language code is here](https://github.com/ufko-org/rebel)**
 
 ...
 <!--
