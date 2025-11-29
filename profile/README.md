@@ -1,4 +1,4 @@
-## Hey rebels 👋
+## Hey, rebels 👋
 
 ...
 
